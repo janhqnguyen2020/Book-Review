@@ -1,0 +1,3 @@
+Api key: zgInoGxczl6yG00rmmJ3FCK5WGhKY7s8
+
+https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=yourkey
